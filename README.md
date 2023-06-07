@@ -3,7 +3,7 @@
 <div align="center">
   
 
-  <h3><b>Hello World Project</b></h3>
+  <h3><b>Moblie Portfolio</b></h3>
 
 </div>
 
@@ -29,7 +29,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [hello_microverse_project] <a name="hello-microverse"></a>
+# 📖 [hello_microverse_project] <a name="Moblie Portfolio"></a>
 
 >The first project of Micriverse program .
 
@@ -47,7 +47,7 @@
 </details>
 
 
-### Key Features <a name="linters"></a>
+### Key Features <a name="Moblie Portfolio"></a>
 
 > Made Mobile project.
 
@@ -69,7 +69,7 @@ In order to run this project you need: Run Linters
 
 Clone this repository to your desired folder:
 
-https://github.com/AhmedMh0/Hello-Microvers-Project.git
+https://github.com/AhmedMh0/Mobile-Portfolio
 
 
 ### Install
@@ -118,7 +118,7 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AhmedMh0/Hello-Microvers-Project/issues).
+Feel free to check the [issues page](https://github.com/AhmedMh0/Mobile-Portfolio/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
