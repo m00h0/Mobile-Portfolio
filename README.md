@@ -29,11 +29,11 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [hello_microverse_project] <a name="Moblie Portfolio"></a>
+# 📖 [Moblie Portfolio] <a name="Moblie Portfolio"></a>
 
 >The first project of Micriverse program .
 
-**[your_project__name]** is a is a Hello Microverse Project.
+**[your_project__name]** is a Moblie Portfolio.
 
 ## 🛠 Built With <a name="Html&Css"></a>
 
