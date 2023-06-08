@@ -24,16 +24,16 @@ header {
 }
 
 .menu {
-  padding: 65px 17px;
-  margin-top: 25px;
+  padding: 1px 35px;
+  margin-top: 15px;
   width: auto;
 }
 
-section {
+.background_image {
   background-image: url('images/header-illsutration-mobile.png');
   background-repeat: no-repeat;
   background-size: cover;
-  width: 375.3px;
+  width: 100%;
   height: 653.32px;
 }
 
@@ -42,8 +42,8 @@ section {
   align-items: center;
   text-align: center;
   color: #172b4d;
-  padding-top: 80px;
-  margin-top: -30px;
+  padding-top: 44px;
+  margin-top: 5px;
 }
 
 h1 span {
@@ -64,7 +64,7 @@ h1 span {
 }
 
 .links {
-  max-width: 300px;
+  max-width: 100%;
   margin: 0 auto;
   margin-top: 10px;
   margin-left: 97px;
