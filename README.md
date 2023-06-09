@@ -31,13 +31,12 @@
 
 # 📖 [Moblie Portfolio] <a name="Moblie Portfolio"></a>
 
->The first project of Micriverse program .
+
 
 **[your_project__name]** is a Moblie Portfolio.
 
 ## 🛠 Built With <a name="Html&Css"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -49,7 +48,6 @@
 
 ### Key Features <a name="Moblie Portfolio"></a>
 
-> Made Mobile project.
 
 - **[Mobile Project]**
 
@@ -101,7 +99,6 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 
 ## 👥 Authors <a name="Ahmed"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Ahmed**
 
@@ -124,7 +121,7 @@ Feel free to check the [issues page](https://github.com/AhmedMh0/Mobile-Portfoli
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give star
+If you like this project give me star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
