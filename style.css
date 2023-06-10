@@ -196,7 +196,6 @@ h1 span {
   display: flex;
   justify-content: center;
   align-items: center;
-
   margin-left: 115px;
   margin-bottom: 48px;
   margin-top: 48px;
@@ -308,8 +307,8 @@ h1 span {
 .last-img2 img {
   display: flex;
   position: relative;
-  margin-top: 0px;
-  margin-left: 0px;
+  margin-top: 0;
+  margin-left: 0;
 }
 
 .container4 {
