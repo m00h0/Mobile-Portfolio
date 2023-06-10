@@ -13,6 +13,7 @@
   padding: 0;
   text-decoration: none;
   box-sizing: border-box;
+  overflow-x: hidden;
 }
 
 body {
@@ -195,7 +196,7 @@ h1 span {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 15px;
+
   margin-left: 115px;
   margin-bottom: 48px;
   margin-top: 48px;
@@ -297,7 +298,7 @@ h1 span {
 .last-img img {
   min-width: 10%;
   height: auto;
-  margin-left: 290px;
+  margin-left: 307px;
 }
 
 .container3 a {
@@ -307,8 +308,8 @@ h1 span {
 .last-img2 img {
   display: flex;
   position: relative;
-  margin-top: -80px;
-  margin-left: -13px;
+  margin-top: 0px;
+  margin-left: 0px;
 }
 
 .container4 {
