@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 @media only screen and (max-width: 600px) {
   header img {
@@ -20,6 +21,8 @@ body {
   font-family: 'Poppins', sans-serif;
   font-family: 'Inter', sans-serif;
   max-width: 375px;
+  font-family: 'Inter', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 header {
@@ -207,6 +210,14 @@ h1 span {
   bottom: 8px;
   background: #36b37f;
   border-radius: 8px;
+}
+
+.footer button:hover {
+  box-shadow: 0 2px 10px #36b37e;
+}
+
+.footer button:active {
+  background-color: #008552;
 }
 
 .container2 a button:hover {
@@ -430,4 +441,94 @@ h1 span {
 
 .container3 a button:active {
   background-color: #008552;
+}
+
+.info3 {
+  font-weight: 700;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #172b4d;
+}
+
+.name-email {
+  height: 48px;
+  width: 88%;
+  margin-left: 6%;
+  border: 1px solid #d0d9d4;
+  padding-left: 10px;
+  border-radius: 4px;
+  margin-top: 6%;
+  margin-bottom: 5%;
+  font-style: italic;
+  color: #6b778c !important;
+}
+
+.message {
+  color: #42526e;
+  padding-top: 6%;
+  padding-left: 4%;
+  padding-right: 8%;
+  padding-bottom: 40%;
+  width: 88%;
+  font-family: 'Inter', sans-serif;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  border: 1px solid #60c095;
+  margin-top: 6%;
+  margin-bottom: 6%;
+  margin-left: 6%;
+  border-radius: 4px;
+}
+
+.my-resume2 {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  border: #fff;
+  gap: 10px;
+  width: 35%;
+  height: 48px;
+  bottom: 8px;
+  padding-left: 4%;
+  margin-left: 110px;
+  background: #36b37f;
+  letter-spacing: 1px;
+  border-radius: 4px;
+}
+
+.footer .info4 {
+  font-weight: 400;
+  font-size: 16px;
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 21%;
+  line-height: 1.5;
+  color: #42526e;
+  padding-top: 10%;
+}
+
+.footer .last-img3 {
+  width: 100%;
+  height: auto;
+  margin-left: 82%;
+  margin-top: -16%;
+}
+
+.footer-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 30px;
+  min-width: 100%;
+  letter-spacing: 2rem;
+  gap: 14px;
+  margin-top: 2%;
 }
