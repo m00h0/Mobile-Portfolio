@@ -439,6 +439,7 @@ h1 span {
 .container3 a button:active {
   background-color: #008552;
 }
+
 .info3 {
   font-weight: 700;
   font-size: 40px;
@@ -469,7 +470,6 @@ h1 span {
   padding-bottom: 40%;
   width: 88%;
   font-family: 'Inter', sans-serif;
-
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
