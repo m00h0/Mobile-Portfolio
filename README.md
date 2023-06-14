@@ -102,7 +102,7 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 
 👤 **Ahmed**
 
-- GitHub: [@githubhandle]((https://github.com/AhmedMh0)
+- GitHub: [@githubhandle](https://github.com/AhmedMh0)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -112,6 +112,14 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 
 
 ## 🤝 Contributing <a name="Microverse"></a>
+
+👤 **Bett**
+
+- GitHub: [@githubhandle](https://github.com/Bettenoch)
+
+👤 **May**
+
+- GitHub: [@githubhandle](https://github.com/MayPyone)
 
 Contributions, issues, and feature requests are welcome!
 
