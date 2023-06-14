@@ -447,6 +447,7 @@ h1 span {
   align-items: center;
   text-align: center;
   color: #172b4d;
+  padding-bottom: 8%;
 }
 
 .name-email {
@@ -456,7 +457,7 @@ h1 span {
   border: 1px solid #d0d9d4;
   padding-left: 10px;
   border-radius: 4px;
-  margin-top: 6%;
+  margin-top: 2%;
   margin-bottom: 5%;
   font-style: italic;
   color: #6b778c !important;
@@ -464,7 +465,7 @@ h1 span {
 
 textarea {
   color: #42526e;
-  padding-top: 6%;
+  padding-top: 2%;
   padding-left: 4%;
   padding-right: 8%;
   padding-bottom: 40%;
@@ -475,8 +476,8 @@ textarea {
   font-size: 15px;
   line-height: 24px;
   border: 1px solid #60c095;
-  margin-top: 6%;
-  margin-bottom: 6%;
+  margin-top: 2%;
+  margin-bottom: 4%;
   margin-left: 6%;
   border-radius: 4px;
 }
@@ -526,5 +527,5 @@ textarea {
   min-width: 100%;
   letter-spacing: 2rem;
   gap: 14px;
-  margin-top: 2%;
+  margin-top: -2%;
 }
