@@ -181,7 +181,7 @@ body {
     border: none;
     border-radius: 8px;
     color: #eef3ee;
-    background-color: #36B37F;;
+    background-color: #36b37f;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -195,7 +195,7 @@ body {
   }
 
   .green-button:hover {
-    box-shadow: 0 2px 10px#36B37F;;
+    box-shadow: 0 2px 10px #36b37f;
   }
 
   .green-button:active {
@@ -446,7 +446,7 @@ body {
   }
 
   .desktop-menu li a:active {
-    color: #36B37F;
+    color: #36b37f;
   }
 
   .mobile-menu-icon {
