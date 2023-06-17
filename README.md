@@ -3,7 +3,7 @@
 <div align="center">
   
 
-  <h3><b>Moblie Portfolio</b></h3>
+  <h3><b>Desktop & Mobile Portfolio</b></h3>
 
 </div>
 
