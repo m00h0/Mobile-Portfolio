@@ -35,6 +35,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-size: 100%;
   }
 
   .introduction {
@@ -455,13 +456,14 @@ body {
   }
 
   .home {
-    background: url(./images/Header-llustration-desktop.svg) no-repeat;
+    background: url(./images/Header-llustration-desktop.svg) center top no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background-size: cover;
     padding-top: 200px;
+    height: 1200px;
   }
 
   .content-paragraph {
@@ -475,7 +477,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 50%;
+    width: 882px;
   }
 
   .social-icons ul li a:hover img {
