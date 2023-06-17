@@ -273,6 +273,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 35px;
     width: 20.44rem;
     height: 19.75rem;
     border: 1px solid #c1c7d0;
@@ -515,7 +516,7 @@ body {
   .background-top-right2 {
     display: block;
     position: absolute;
-    top: -4rem;
+    top: -7rem;
     right: 0;
     width: 15.25rem;
     height: 16.94rem;
@@ -530,8 +531,8 @@ body {
   .background-bottom-left2 {
     display: block;
     position: absolute;
-    top: 7rem;
-    left: 0;
+    top: 9rem;
+    left: -130px;
     width: 19.94rem;
     height: 10.25rem;
     background-image: url('./images/illustration-about-me-2-desktop.svg');
