@@ -53,6 +53,13 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+
+- [Live Demo Link](https://newtonah0.github.io/Mobile-Portfolio/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 💻 Getting Started <a name="start-project"></a>
 
@@ -67,7 +74,7 @@ In order to run this project you need: Run Linters
 
 Clone this repository to your desired folder:
 
-https://github.com/AhmedMh0/Mobile-Portfolio
+https://github.com/newtonah0/Mobile-Portfolio
 
 
 ### Install
@@ -102,7 +109,7 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 
 👤 **Ahmed**
 
-- GitHub: [@githubhandle](https://github.com/AhmedMh0)
+- GitHub: [@githubhandle](https://github.com/newtonah0)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -123,7 +130,7 @@ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standa
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AhmedMh0/Mobile-Portfolio/issues).
+Feel free to check the [issues page](https://github.com/newtonah0/Mobile-Portfolio/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
