@@ -185,7 +185,7 @@ body {
     border: none;
     border-radius: 8px;
     color: #ffffff;
-    background-color: #38a779;
+    background-color: #296d2f;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -203,7 +203,7 @@ body {
   }
 
   .green-button:active {
-    background-color: #055234;
+    background-color: #05524c;
   }
 
   .about-me {
