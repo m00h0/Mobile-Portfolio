@@ -199,11 +199,11 @@ body {
   }
 
   .green-button:hover {
-    background-color:#2e9c6e;
+    background-color:#1f573f;
   }
 
   .green-button:active {
-    background-color: #348a69;
+    background-color: #1f7554;
   }
 
   .about-me {
