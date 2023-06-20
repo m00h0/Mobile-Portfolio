@@ -185,7 +185,7 @@ body {
     border: none;
     border-radius: 8px;
     color: #ffffff;
-    background-color: #4eb188;
+    background-color: #5a8f79;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -447,11 +447,11 @@ body {
   }
 
   .desktop-menu li a:hover {
-    color: #138157;
+    color: #3fd89d;
   }
 
   .desktop-menu li a:active {
-    color: #3d916e;
+    color: #2f966b;
   }
 
   .mobile-menu-icon {
