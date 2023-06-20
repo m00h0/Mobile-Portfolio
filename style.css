@@ -184,7 +184,7 @@ body {
     padding: 16px;
     border: none;
     border-radius: 8px;
-    color: #ffffff;
+    color: #fff;
     background-color: #296d2f;
     font-style: normal;
     font-weight: 500;
@@ -199,7 +199,7 @@ body {
   }
 
   .green-button:hover {
-    background-color:#1f573f;
+    background-color: #1f573f;
   }
 
   .green-button:active {
