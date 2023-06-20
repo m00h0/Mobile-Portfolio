@@ -184,8 +184,8 @@ body {
     padding: 16px;
     border: none;
     border-radius: 8px;
-    color: #ffffff;
-    background-color: #4f866f;
+    color: #eef3ee;
+    background-color: #36976f;
     font-style: normal;
     font-weight: 500;
     font-size: 17px;
@@ -199,11 +199,11 @@ body {
   }
 
   .green-button:hover {
-    background-color: #3f926f;
+    background-color:#2e9c6e;
   }
 
   .green-button:active {
-    background-color: #23a070;
+    background-color: #348a69;
   }
 
   .about-me {
@@ -447,11 +447,11 @@ body {
   }
 
   .desktop-menu li a:hover {
-    color: #3fd89d;
+    color: #138157;
   }
 
   .desktop-menu li a:active {
-    color: #2f966b;
+    color: #3d916e;
   }
 
   .mobile-menu-icon {
