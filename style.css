@@ -81,7 +81,6 @@ body {
 .nav-menu {
   position: fixed;
   left: -100%;
-  background-color: white;
   top:70px;
   gap: 0;
   flex-direction: column;
