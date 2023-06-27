@@ -40,12 +40,14 @@ body {
 
   .nav-menu {
    display: flex;
-   justify-content: space-between;
-   align-items: center;
    gap: 3px;
    background: white;
    width: 375px;
    height: 604px;
+   font-size: 32px;
+    font-weight: 600;
+    line-height: 44px;
+    padding-left: 29px
   }
   .hamburgar {
     display: block;
@@ -82,9 +84,7 @@ body {
   top:70px;
   gap: 0;
   flex-direction: column;
-  background-color:white cover ;
   width: 100%;
-  text-align: center;
   transition: 0.3s;
 }
 
@@ -493,6 +493,10 @@ body {
   .desktop-menu {
     display: block;
     position: relative;
+  }
+
+  .navbar {
+    display: none;
   }
 
   .desktop-menu ul {
