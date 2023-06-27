@@ -84,20 +84,9 @@ body {
     transform: translateY(-8px) rotate(-45deg);
   }
 
-.nav-menu {
-  position: fixed;
-  left: -100%;
-  background-color: white;
-  top:70px;
-  gap: 0;
-  flex-direction: column;
-  width: 100%;
-  transition: 0.3s;
-}
-
-.nav-item {
-  margin: 16px 0;
-}
+  .nav-item {
+    margin: 16px 0;
+  }
 
   .nav-menu.active {
     left: 0;
