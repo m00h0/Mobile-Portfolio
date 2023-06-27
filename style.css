@@ -52,21 +52,28 @@ body {
     top: 70px;
     flex-direction: column;
     width: 100%;
+    height: 100%;
+    z-index: 4;
     transition: 0.3s;
   }
 
   .hamburgar {
     display: block;
     cursor: pointer;
+    position: fixed;
+    background: white;
+    z-index: 5;
+    width: 100%;
+    height: 11%;
+    padding-left: 20rem;
+    
   }
 
   .bar {
     display: block;
-    justify-content: flex-end;
     width: 25px;
     height: 5px;
     margin: 4px 6px;
-    margin-left: 20rem;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     background-color: #344563;
