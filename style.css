@@ -226,7 +226,7 @@ body {
     color: #3a4a42;
   }
 
-  .project-card_details .stacks {
+  .stacks {
     display: flex;
     border-radius: 4px;
     flex-direction: row;
@@ -242,15 +242,17 @@ body {
     gap: 9px;
   }
 
-  .project-card_details .stacks li {
+  .stacks1 {
     background: #ebf0ee;
     border-radius: 4px;
     padding: 8px 12px;
     font-weight: 600;
     font-size: 12px;
+    border: #172b4d;
     line-height: 16px;
     letter-spacing: 3%;
     color: #3a4a42;
+    cursor: pointer;
   }
 
   .green-button {
