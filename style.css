@@ -167,7 +167,7 @@ body {
   .popup-window.active {
     display: block;
     overflow-y: auto;
-    background-color: #f7f7f9;
+    background-color: rgba(193, 199, 208, 0.7);
     z-index: 999;
     position: fixed;
     backdrop-filter: blur(5px);
