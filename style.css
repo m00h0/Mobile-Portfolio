@@ -349,8 +349,9 @@ body {
   }
 
   .project-card {
-    width: 90%;
-    margin-left: 6%;
+    width: 70%;
+    background-color: #fdfffe;
+    margin-left: 12%;
     display: flex;
     flex-direction: column;
   }
@@ -701,10 +702,10 @@ footer .social-icons {
     border: 1px solid #6e82a5;
     background: #2cb983;
     border-radius: 5px;
-    top: 93%;
-    left: 75%;
+    top: 77%;
+    left: 67%;
     color: #fff;
-    padding: 14px 26px;
+    padding: 8px 12px;
     cursor: pointer;
   }
 
@@ -713,11 +714,11 @@ footer .social-icons {
     display: flex;
     border: 1px solid #6e82a5;
     background: #2cb983;
-    top: 93%;
-    right: 27%;
+    top: 77%;
+    right: 34%;
     border-radius: 5px;
     color: #fff;
-    padding: 14px 26px;
+    padding: 8px 12px;
     cursor: pointer;
   }
 
