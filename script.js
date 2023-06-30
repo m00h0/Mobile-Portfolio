@@ -229,7 +229,7 @@ const email = document.getElementById('email');
 const message = document.getElementById('message');
 const errorMessage = document.getElementById('error-message');
 
-function formValidate(event) {
+const formValidate = (event) => {
   if (fullName.value === '' || fullName.value == null) {
     errorMessage.style.display = 'block';
     errorMessage.innerHTML = 'Please write your full name.';
@@ -253,6 +253,6 @@ function formValidate(event) {
   } else {
     errorMessage.style.display = 'none';
   }
-}
+};
 
 contactForm.addEventListener('submit', formValidate);
