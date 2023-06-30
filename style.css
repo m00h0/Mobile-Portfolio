@@ -6,9 +6,9 @@ html {
 }
 
 * {
-  box-sizing: border-box;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -181,7 +181,7 @@ body {
   .close-icon {
     font-size: 2rem;
     font-weight: 200;
-    color: #67798e;
+    color: #6f8195;
   }
 
   .close-icon:hover,
@@ -210,7 +210,7 @@ body {
   }
 
   small {
-    color: red;
+    color: rgb(241, 13, 13);
     margin: 1rem 0 -1.5rem 1rem;
     background-color: #fff;
     padding: 0.5rem;
