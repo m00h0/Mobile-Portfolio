@@ -188,7 +188,7 @@ body {
   .close-icon:focus {
     font-weight: 600;
     cursor: pointer;
-    color: #000;
+    color: #0e0e0ed9;
   }
 
   .pop-title {
