@@ -210,7 +210,7 @@ body {
   }
 
   small {
-    color: red;
+    color: rgb(241, 13, 13);
     margin: 1rem 0 -1.5rem 1rem;
     background-color: #fff;
     padding: 0.5rem;
