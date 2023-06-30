@@ -102,7 +102,6 @@ body {
     left: 0;
   }
 
-/*   popup code */
   .popup-items {
     display: flex;
     flex-direction: row;
