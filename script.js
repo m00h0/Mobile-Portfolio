@@ -14,74 +14,74 @@ document.querySelectorAll('.nav-link').forEach((n) => n.addEventListener('click'
 const projects = [
   {
     id: 1,
-    title: 'Multi-Post Stories Gain+Glory',
-    snapshot: './Images/assets/Snapshoot-Portfolio.svg',
-    description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s. Lorem Ipsum is simply dummy text of the printing and typesetting industry",
-    skills: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
-    projectInfo: { company: 'Microverse', role: 'Back END Dev', year: 2015 },
-    supdescription: 'Keeping track of hundreds of components',
-    seeLive: 'https://github.com/newtonah0/Mobile-Portfolio',
-    seeSource: 'https://github.com/newtonah0/Mobile-Portfolio',
+    title: 'Awesome Books',
+    snapshot: './Images/assets/awesomeBooks.png',
+    description: 'The project Awesome Books is a page app for managing books from a website. It is built using JavaScript, CSS, and HTML.',
+    skills: ['CSS', 'JavaScript', 'HTML', 'Gitflow'],
+    projectInfo: { company: 'Microverse', role: 'Front END Dev', year: 2023 },
+    supdescription: 'Awesome Books',
+    seeLive: 'https://m00h0.github.io/Awesome-books/',
+    seeSource: 'https://github.com/m00h0/Awesome-books',
   },
 
   {
     id: 2,
-    title: 'Multi-Post Stories Gain+Glory',
-    snapshot: './Images/assets/Snapshoot-Portfolio.svg',
-    description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s. Lorem Ipsum is simply dummy text of the printing and typesetting industry",
-    skills: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
-    projectInfo: { company: 'Microverse', role: 'Back END Dev', year: 2015 },
-    supdescription: 'Keeping track of hundreds of components',
-    seeLive: 'https://github.com/newtonah0/Mobile-Portfolio',
-    seeSource: 'https://github.com/newtonah0/Mobile-Portfolio',
+    title: 'Ted Event',
+    snapshot: './images/assets/tedEvents.png',
+    description: 'The TED Capstone Project is a responsive website designed to showcase a TED-like event. It includes features such as speaker profiles, event schedules, and session details, providing users with an interactive experience similar to attending a TED conference.',
+    skills: ['CSS', 'JavaScript', 'HTML', 'API Design'],
+    projectInfo: { company: 'Microverse', role: 'front END Dev', year: 2025 },
+    supdescription: 'Ted Event',
+    seeLive: 'https://m00h0.github.io/Microverse-Capstone-1/index.html',
+    seeSource: 'https://github.com/m00h0/Microverse-Capstone-1',
   },
 
   {
     id: 3,
-    title: 'Multi-Post Stories Gain+Glory',
-    snapshot: './Images/assets/Snapshoot-Portfolio.svg',
-    description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s. Lorem Ipsum is simply dummy text of the printing and typesetting industry",
-    skills: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
-    projectInfo: { company: 'Microverse', role: 'Back END Dev', year: 2015 },
-    supdescription: 'Keeping track of hundreds of components',
-    seeLive: 'https://github.com/newtonah0/Mobile-Portfolio',
-    seeSource: 'https://github.com/newtonah0/Mobile-Portfolio',
+    title: 'Picture In Picture',
+    snapshot: './Images/assets/pictureInPicture.png',
+    description: 'This project allows users to select a media stream from their screen and display it in a Picture-in-Picture (PiP) window. It is built using HTML, CSS, and JavaScript.',
+    skills: ['CSS', 'JavaScript', 'HTML', 'API Design'],
+    projectInfo: { company: 'Microverse', role: 'front END Dev', year: 2025 },
+    supdescription: 'Picture In Picture',
+    seeLive: 'https://m00h0.github.io/picture-in-picture/',
+    seeSource: 'https://github.com/m00h0/picture-in-picture',
   },
 
   {
     id: 4,
-    title: 'Multi-Post Stories Gain+Glory',
-    snapshot: './Images/assets/Snapshoot-Portfolio.svg',
-    skills: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
-    projectInfo: { company: 'Microverse', role: 'Back END Dev', year: 2015 },
-    supdescription: 'Keeping track of hundreds of components',
-    description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s. Lorem Ipsum is simply dummy text of the printing and typesetting industry",
-    seeLive: 'https://github.com/newtonah0/Mobile-Portfolio',
-    seeSource: 'https://github.com/newtonah0/Mobile-Portfolio',
+    title: 'Quote Generator',
+    snapshot: './Images/assets/quoteGenerator.png',
+    skills: ['CSS', 'JavaScript', 'HTML', 'API Design'],
+    projectInfo: { company: 'Microverse', role: 'Front END Dev', year: 2024 },
+    supdescription: 'Quote Generator',
+    description: 'This project is a Quote Generator that displays random quotes to inspire and motivate users. The application fetches quotes from an API and presents them in a user-friendly interface.',
+    seeLive: 'https://m00h0.github.io/Quote-Generator/',
+    seeSource: 'https://github.com/m00h0/Quote-Generator',
   },
 
   {
     id: 5,
-    title: 'Multi-Post Stories Gain+Glory Gain+Glory',
-    snapshot: './Images/assets/Snapshoot-Portfolio.svg',
-    description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s. Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+    title: 'SEA STAR Catch & Grill',
+    snapshot: './Images/assets/seaStarFood.png',
+    description: 'is a restaurant website designed to showcase the offerings of the Sea Star Catch & Grill restaurant, Built using HTML, CSS, and JavaScript, the project provides an engaging and informative online presence for the restaurant, featuring key information about the menu, services, and contact details.',
     skills: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
-    supdescription: 'Keeping track of hundreds of components',
-    projectInfo: { company: 'Microverse', role: 'Back END Dev', year: 2015 },
-    seeLive: 'https://github.com/newtonah0/Mobile-Portfolio',
-    seeSource: 'https://github.com/newtonah0/Mobile-Portfolio',
+    supdescription: 'SEA STAR Catch & Grill',
+    projectInfo: { company: 'Microverse', role: 'Front END Dev', year: 2023 },
+    seeLive: 'https://m00h0.github.io/Capstone-Project2/dist/',
+    seeSource: 'https://github.com/m00h0/Capstone-Project2',
   },
 
   {
     id: 6,
-    title: 'Multi-Post Stories Gain+Glory',
-    snapshot: './Images/assets/Snapshoot-Portfolio.svg',
-    description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s. Lorem Ipsum is simply dummy text of the printing and typesetting industry",
-    skills: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
-    supdescription: 'Keeping track of hundreds of components',
-    projectInfo: { company: 'Microverse', role: 'Back END Dev', year: 2015 },
-    seeLive: 'https://github.com/newtonah0/Mobile-Portfolio',
-    seeSource: 'https://github.com/newtonah0/Mobile-Portfolio',
+    title: 'Space Travelers Hub',
+    snapshot: './Images/assets/spaceTraveler.png',
+    description: "The Space Travelers' Hub is a web application designed for a company that offers commercial and scientific space travel services. The application allows users to book rockets and join selected space missions.",
+    skills: ['CSS', 'JavaScript', 'HTML', 'react&redux'],
+    supdescription: 'Space Travelers Hub',
+    projectInfo: { company: 'Microverse', role: 'Front END Dev', year: 2023 },
+    seeLive: 'https://react-group-capstone-qwsc.vercel.app/',
+    seeSource: 'https://github.com/m00h0/space-traveler',
   },
 
 ];
@@ -93,7 +93,7 @@ projects.forEach((project) => {
   section.innerHTML = `<div class=""project-cards">
   <img class="project-card" src=${project.snapshot} alt="Snap image for background">
   </div>
-<div class="project-card_details">
+<div class="project-card-details">
   <h2 class="title">${project.title}</h2>
   
   <div class="stacks">
@@ -144,8 +144,8 @@ projects.forEach((project) => {
         </div>
         <div class="action-btn-container">
      
-          <button class="action-btn-popupBtn" type="button" name="button">See Live <i class="bi bi-box-arrow-up-right"></i></button>
-          <button class="action-btn-popupBtn1" type="button" name="button">See Source <i class="bi bi-github"></i></button>
+         <a href="${project.seeLive}" target="_blank">  <button class="action-btn-popup-btn" type="button" name="button">See Live <i class="bi bi-box-arrow-up-right"></i></button></a>
+         <a href="${project.seeSource}" target="_blank"> <button class="action-btn-popup-btn1" type="button" name="button">See Source <i class="bi bi-github"></i></button></a>
         </div>
         </div>
         </div>
