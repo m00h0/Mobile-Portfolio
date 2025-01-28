@@ -39,7 +39,7 @@ const projects = [
   {
     id: 3,
     title: 'Picture In Picture',
-    snapshot: './images/assets/pictureInPicture.png',
+    snapshot: './images/assets/PinP.png',
     description: 'This project allows users to select a media stream from their screen and display it in a Picture-in-Picture (PiP) window. It is built using HTML, CSS, and JavaScript.',
     skills: ['CSS', 'JavaScript', 'HTML', 'API Design'],
     projectInfo: { company: 'Microverse', role: 'front END Dev', year: 2025 },
