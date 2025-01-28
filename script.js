@@ -15,7 +15,7 @@ const projects = [
   {
     id: 1,
     title: 'Awesome Books',
-    snapshot: './Images/assets/awesomeBooks.png',
+    snapshot: './images/assets/awesomeBooks.png',
     description: 'The project Awesome Books is a page app for managing books from a website. It is built using JavaScript, CSS, and HTML.',
     skills: ['CSS', 'JavaScript', 'HTML', 'Gitflow'],
     projectInfo: { company: 'Microverse', role: 'Front END Dev', year: 2023 },
@@ -39,7 +39,7 @@ const projects = [
   {
     id: 3,
     title: 'Picture In Picture',
-    snapshot: './Images/assets/pictureInPicture.png',
+    snapshot: './images/assets/pictureInPicture.png',
     description: 'This project allows users to select a media stream from their screen and display it in a Picture-in-Picture (PiP) window. It is built using HTML, CSS, and JavaScript.',
     skills: ['CSS', 'JavaScript', 'HTML', 'API Design'],
     projectInfo: { company: 'Microverse', role: 'front END Dev', year: 2025 },
@@ -51,7 +51,7 @@ const projects = [
   {
     id: 4,
     title: 'Quote Generator',
-    snapshot: './Images/assets/quoteGenerator.png',
+    snapshot: './images/assets/quoteGenerator.png',
     skills: ['CSS', 'JavaScript', 'HTML', 'API Design'],
     projectInfo: { company: 'Microverse', role: 'Front END Dev', year: 2024 },
     supdescription: 'Quote Generator',
@@ -63,7 +63,7 @@ const projects = [
   {
     id: 5,
     title: 'SEA STAR Catch & Grill',
-    snapshot: './Images/assets/seaStarFood.png',
+    snapshot: './images/assets/seaStarFood.png',
     description: 'is a restaurant website designed to showcase the offerings of the Sea Star Catch & Grill restaurant, Built using HTML, CSS, and JavaScript, the project provides an engaging and informative online presence for the restaurant, featuring key information about the menu, services, and contact details.',
     skills: ['Ruby on Rails', 'CSS', 'JavaScript', 'HTML'],
     supdescription: 'SEA STAR Catch & Grill',
@@ -75,7 +75,7 @@ const projects = [
   {
     id: 6,
     title: 'Space Travelers Hub',
-    snapshot: './Images/assets/spaceTraveler.png',
+    snapshot: './images/assets/spaceTraveler.png',
     description: "The Space Travelers' Hub is a web application designed for a company that offers commercial and scientific space travel services. The application allows users to book rockets and join selected space missions.",
     skills: ['CSS', 'JavaScript', 'HTML', 'react&redux'],
     supdescription: 'Space Travelers Hub',
